@@ -42,7 +42,9 @@
     "clientTheme": "none",
     "clientThemeVariant": "",
     "reactive": false,
-    "enableGradleEnterprise": false
+    "enableGradleEnterprise": false,
+    "entities": ["Region", "Country"],
+    "lastLiquibaseTimestamp": 1641934445000
   },
   "git-provider": "GitHub",
   "git-company": "elouaersafa",
